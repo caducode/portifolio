@@ -1,2 +1,2 @@
-# portifolio
-repo created to save personal projects and studies.
+## PORTIFÓLIO
+Repo created to save personal projects and studies.
